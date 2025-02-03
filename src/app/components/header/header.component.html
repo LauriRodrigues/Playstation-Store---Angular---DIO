@@ -1,0 +1,47 @@
+<header>
+  <img class="logoHeader" src="playstationStoreLogo.png" alt="">
+  <nav>
+    <ul class="menuList">
+      <li class="menuItem">
+        <a 
+          [routerLink]="['/']" 
+          [routerLinkActive]="['menuItemActive']"
+          [routerLinkActiveOptions]="{exact: true}">
+          Novidades
+        </a>
+      </li>
+      <li class="menuItem">
+        <a 
+          [routerLink]="['/colecoes']" 
+          [routerLinkActive]="['menuItemActive']"
+          [routerLinkActiveOptions]="{exact: true}">
+          Coleções
+        </a>
+      </li>
+      <li class="menuItem">
+        <a 
+          [routerLink]="['/ofertas']" 
+          [routerLinkActive]="['menuItemActive']"
+          [routerLinkActiveOptions]="{exact: true}">
+          Ofertas
+        </a>
+      </li>
+      <li class="menuItem">
+        <a 
+          [routerLink]="['/assinaturas']" 
+          [routerLinkActive]="['menuItemActive']"
+          [routerLinkActiveOptions]="{exact: true}">
+          Assinaturas
+        </a>
+      </li>
+      <li class="menuItem">
+        <a 
+          [routerLink]="['/navegar']" 
+          [routerLinkActive]="['menuItemActive']"
+          [routerLinkActiveOptions]="{exact: true}">
+          Navegar
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
