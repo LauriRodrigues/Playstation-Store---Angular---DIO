@@ -12,8 +12,6 @@
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/Playstation-Store---Angular---DIO?color=%231280BF&style=plastic">
   
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/Playstation-Store---Angular---DIO?color=%231280BF&style=plastic">
-  
-  <a href=""> ▶️ Visualizar Deploy </a>
 </div>
 
 <h2 align=left> 💻 Sobre o projeto </h3>
