@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo DIO" title="Explorer" src="DIOLogo.png">
+  <img alt="Logo DIO" title="Explorer" src="public/DIOLogo.png">
 </div>
 	
 <h4 align="center"> 
@@ -32,4 +32,4 @@
 
 <h4>💻 Desktop </h4>
 
-<img alt="Versão Desktop" title="Desktop" src="Desktop.png" width="70%">
+<img alt="Versão Desktop" title="Desktop" src="public/Desktop.png" width="70%">
