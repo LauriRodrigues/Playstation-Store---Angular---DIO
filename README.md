@@ -7,11 +7,11 @@
 </h4>
 
 <div align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LauriRodrigues/Playstation-Store---Angular---DIO?color=%231280BF&style=plastic">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LauriRodrigues/PlaystationStore-Angular-DIO?color=%231280BF&style=plastic">
 
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/Playstation-Store---Angular---DIO?color=%231280BF&style=plastic">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/PlaystationStore-Angular-DIO?color=%231280BF&style=plastic">
   
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/Playstation-Store---Angular---DIO?color=%231280BF&style=plastic">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/PlaystationStore-Angular-DIO?color=%231280BF&style=plastic">
 </div>
 
 <h2 align=left> 💻 Sobre o projeto </h3>
