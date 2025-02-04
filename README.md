@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo DIO" title="Explorer" src="public/DIOLogo.png">
+  <img alt="Logo DIO" title="Explorer" src="public/DIOLogo.png" width="50%">
 </div>
 	
 <h4 align="center"> 
