@@ -1,0 +1,58 @@
+.cardContainer {
+  width: fit-content;
+  margin: 2rem;
+  position:relative;
+  transition: .5s all;
+  cursor: pointer;
+}
+
+.cardContainer:hover {
+  transform: scale(1.05);
+}
+
+img {
+  width: 35rem;
+  border-radius: 15px;
+}
+
+p {
+  color:rgb(204, 204, 204);
+}
+
+.cardText {
+  position: absolute;
+  width:100%;
+  bottom: .4rem;
+  padding: 1rem 2rem;
+  background-color:rgb(54, 54, 54, 0.85);
+  border-radius: 0 0 15px 15px;
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+}
+
+.gameName {
+  color: #f0f0f0;
+}
+
+.gameInfos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.gameTags {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+}
+
+.firstDivider {
+  color:rgb(75, 226, 253);
+  font-weight: bold;
+}
+
+.secondDivider {
+  color:rgb(138, 136, 136);
+}
