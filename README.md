@@ -30,4 +30,4 @@
 
 <h4>💻 Desktop </h4>
 
-<img alt="Versão Desktop" title="Desktop" src="public/Desktop.png" width="70%">
+<img alt="Versão Desktop" title="Desktop" src="public/Desktop.png" width="90%">
